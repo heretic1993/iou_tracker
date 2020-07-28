@@ -1,0 +1,1 @@
+demo.py -f '/Users/xingfang/Desktop/iou-tracker-master/data/MVI_39031/img{:05d}.jpg' -d /Users/xingfang/Desktop/iou-tracker-master/data/example1.txt -o /Users/xingfang/Desktop/iou-tracker-master/data/out.txt -v MEDIANFLOW -sl 0.9 -sh 0.98 -si 0.1 -tm 23 --ttl 8 --nms 0.6 -fmt visdrone
